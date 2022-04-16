@@ -1,5 +1,5 @@
 {
-  "orgName": "Demo company",
+  "orgName": "DreamHouse Realty",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
@@ -10,4 +10,3 @@
       "enableS1EncryptedStoragePref2": false
     }
   }
-}
